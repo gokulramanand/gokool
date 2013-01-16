@@ -1,2 +1,3 @@
 escape dd
 one more line added from github in test.txt
+test text added from origin/master
